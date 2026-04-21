@@ -56,7 +56,7 @@ Built for penetration testers, bug bounty hunters, and cybersecurity researchers
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pr0fessor-Snape/Basilic.git
+git clone https://github.com/Pr0fessorSnApe/Basilic.git
 cd Basilic
 
 # Install dependencies
